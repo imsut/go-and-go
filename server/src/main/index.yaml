@@ -1,0 +1,6 @@
+indexes:
+- kind: Alias
+  ancestor: no
+  properties:
+  - name: Date
+    direction: desc
